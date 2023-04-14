@@ -1,4 +1,4 @@
-#Basic CRUD and JWT Authentication with Passport in Laravel make heading for readme code 
+# Basic CRUD and JWT Authentication with Passport in Laravel make heading for readme code 
 
 This is a sample Laravel project that demonstrates how to implement basic CRUD operations and JWT authentication with Passport. It includes a simple API for managing users.
 Requirements
