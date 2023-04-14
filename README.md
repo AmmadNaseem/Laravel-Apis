@@ -1,10 +1,10 @@
-Basic CRUD and JWT Authentication with Passport in Laravel
+#Basic CRUD and JWT Authentication with Passport in Laravel make heading for readme code 
 
 This is a sample Laravel project that demonstrates how to implement basic CRUD operations and JWT authentication with Passport. It includes a simple API for managing users.
 Requirements
 
     PHP 7.3 or higher
-    Laravel 7 or higher
+    Laravel 8 or higher
     Composer
     MySQL
 
